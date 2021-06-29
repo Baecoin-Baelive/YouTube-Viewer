@@ -309,6 +309,7 @@ def gather_proxy():
                  'https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt',
                  'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt',
                  'https://github.com/Baecoin-Baelive/freeproyxy/blob/main/proxy.txt',
+                 'https://github.com/Baecoin-Baelive/free-proxy-realtime-update/blob/main/proxy.txt',
                  'https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt']
 
     for link in link_list:
